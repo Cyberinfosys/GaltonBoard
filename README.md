@@ -1,1 +1,2 @@
 # GaltonBoard
+Graphical normal distribution

@@ -1,2 +1,2 @@
 # GaltonBoard
-Graphical normal distribution
+Graphical normal distribution in unity
